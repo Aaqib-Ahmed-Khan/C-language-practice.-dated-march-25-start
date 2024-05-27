@@ -19,6 +19,6 @@ int main() {
     }
 
     printf("Modified string: %s\n", word);
-
+printf("Modified string: %s\n", word);
     return 0;
 }
