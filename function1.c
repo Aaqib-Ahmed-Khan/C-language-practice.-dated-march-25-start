@@ -15,6 +15,10 @@ void karachi(){
     printf("you are in karachi");
     return;
     }
+    void sukkur(){
+    printf("you are in karachi");
+    return;
+    }
 int main(){
     karachi();
 
