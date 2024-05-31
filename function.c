@@ -1,3 +1,6 @@
+Function is a block of code which has some name for identfication.
+
+
 #include<stdio.h>
 int main(){
     void fun();
@@ -6,4 +9,9 @@ int main(){
 }
 void fun(){
     printf("hello");
+}
+function name (){
+    --
+    --
+    ---
 }
