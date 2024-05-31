@@ -17,3 +17,10 @@ function name (){
     --
     ---
 }
+main(){
+    a()
+    b()
+}
+a(){
+    printf(%d,&a)
+}
