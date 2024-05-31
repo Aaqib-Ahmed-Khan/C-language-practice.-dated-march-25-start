@@ -24,3 +24,19 @@ main(){
 a(){
     printf(%d,&a)
 }
+
+
+int main()
+{
+    int x,y;
+    printf("enter numbers");
+    scanf("%d";&x,&y);
+
+    add(x,y);
+return 0;
+}
+void add(int a ,b)
+{
+    int c =a+b;
+    printf(sum is %d,c);
+}
