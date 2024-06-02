@@ -23,7 +23,7 @@
 void cricket();
 void football();
 int main(){
-printf("enter c for cricket or f for football");
+printf("enter c for cricket or f for football\n");
 char ch;
 scanf("%c",&ch);
 if(ch=='c'){
@@ -34,8 +34,8 @@ if(ch=='c'){
 return 0;
 }
 void cricket(){
-    printf("cricket");
+    printf("cricket\n");
 }
 void football(){
-printf("football");
+printf("football\n");
 }
