@@ -4,19 +4,27 @@
 // {
 // printf(%d)
 // }
-void hello();
-void goodbye();
+// void hello();
+// void goodbye();
 
+// int main(){
+//      hello();   //function call
+//    goodbye();
+
+//     return 0;
+// }
+// void hello  (){
+//     printf("hello"); 
+
+// }
+// void goodbye  (){
+//     printf("goodbye"); 
+// }
+void cricket();
+void football();
 int main(){
-     hello();   //function call
-   goodbye();
-
-    return 0;
-}
-void hello  (){
-    printf("hello"); 
-
-}
-void goodbye  (){
-    printf("goodbye"); 
+printf("enter c for cricket or f for football");
+char ch;
+scanf(%c,&ch);
+if(ch)
 }
