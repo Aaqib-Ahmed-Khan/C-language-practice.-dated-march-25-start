@@ -42,7 +42,7 @@
 void biryani();
 void tikka();
 int main(){
-    printf("choose any one\n");
+    printf("enter b for biryani or wnter t for tika");
     scanf("%c",&ch);
     if(ch=='b'){
         biryani();
