@@ -57,7 +57,7 @@ int main(){
         tikka();
 }
 return 0;
-{
+}
 void biryani(){
 printf("biryani\n");
 }
@@ -66,5 +66,4 @@ void tikka(){
 }
 void salad(){
     printf("salad\n");
-}}
 }
