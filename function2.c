@@ -41,21 +41,28 @@
 // }
 void biryani();
 void tikka();
+void salad();
 int main(){
-    printf("enter b for biryani or wnter t for tika");
+    printf("enter b for biryani or wnter t for tika or s for salad");
     char ch;
     scanf("%c",&ch);
     if(ch=='b'){
         biryani();
 
     }
+    else if (ch=='s'){
+    salad();
+}
     else{
         tikka();
 }
+
 void biryani(){
 printf("biryani\n");
 }
 void tikka(){
     printf("tikka\n");
-
+}
+void salad(){
+    printf("salad\n");
 }}
