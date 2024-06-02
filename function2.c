@@ -51,5 +51,10 @@ int main(){
     else{
         tikka();
 }
-void biryani()
-printf 
+void biryani(){
+printf("biryani\n");
+}
+void tikka(){
+    printf("tikka\n");
+
+}}
