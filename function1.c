@@ -19,6 +19,9 @@ void karachi(){
     printf("you are in karachi");
     return;
     }
+    void faisalabad(){
+      printf("you are in faisalabad");
+    }
 int main(){
     karachi();
 
