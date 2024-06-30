@@ -1,7 +1,7 @@
 #include<stdio.h>
 void karachi(){
     printf("you are in karachi");
-    return;
+  
 }
   void lahore(){
     printf("you are in karachi");
@@ -24,5 +24,6 @@ void karachi(){
     }
 int main(){
     karachi();
+    lahore();
 
 }
